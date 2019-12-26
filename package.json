@@ -1,6 +1,6 @@
 {
   "name": "inc-repeat",
-  "displayName": "inc-repeat",
+  "displayName": "IncRepeat",
   "description": "Repeat selected lines and increment numbers among them",
   "version": "0.0.1",
   "publisher": "koiketakayuki",
