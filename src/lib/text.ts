@@ -10,7 +10,7 @@ export function repeatIncrementedText(text: string): (i: number) => string {
     let result = "";
     for (let j = 0; j < numbersLength; j++) {
       result += splittedText[j];
-      result += incrementedNumbers[i];
+      result += incrementedNumbers[j];
     }
     result += splittedText[splittedText.length - 1];
     return result;
